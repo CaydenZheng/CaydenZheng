@@ -1,6 +1,6 @@
 <p align="right"><a href="./README.md">中文</a> · <strong>English</strong></p>
 
-<img src="./assets/hero.gif" width="1040" alt="Cayden. Work hard in silence. Let success be your noise.">
+<img src="./assets/hero.gif?v=2" width="1040" alt="Cayden. Work hard in silence. Let success be your noise.">
 
 ## A little about me
 
