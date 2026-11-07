@@ -1,39 +1,49 @@
 <img src="./assets/hero.gif?v=3" width="1040" alt="Cayden. Work hard in silence. Let success be your noise.">
 
-### 一点关于我
+<p><picture><source media="(max-width: 767px)" srcset="./assets/profile/about-mobile.svg"><img src="./assets/profile/about.svg" width="100%" align="top" alt="保持好奇，也把想法做出来。 我是 Cayden，目前在华南理工大学学习，关注 知识检索、AI 应用与推荐系统 。 我喜欢把模型与数据放进具体的使用场景，在实践中理解技术，把想法做成可以使用的东西。 目前正在学习 英语和西班牙语 ，会继续学习更多语言，希望能有机会和不同文化背景的人交流。 一些作品。"></picture><br>
+<a href="https://github.com/CaydenZheng/RAG"><picture><source media="(max-width: 767px)" srcset="./assets/profile/rag-mobile.svg"><img src="./assets/profile/rag.svg" width="100%" align="top" alt="01 KNOWLEDGE & AGENTS RAG ↗ 让本地知识可检索，让 Agent 能动手。 围绕本地知识库构建检索与问答流程，以 稠密检索 + BM25 组合召回，通过 RRF 融合结果。 结合 工具调用与 MCP ， 探索从获取信息到执行操作的完整流程。 FastAPI · PocketFlow · Dense + BM25 · RRF · MCP"></picture></a><br>
+<a href="https://github.com/CaydenZheng/mindtrace-web"><picture><source media="(max-width: 767px)" srcset="./assets/profile/mindtrace-mobile.svg"><img src="./assets/profile/mindtrace.svg" width="50%" align="top" alt="02   REFLECTION & AI MindTrace ↗ 日迹 你写下思考，AI 做你的镜子。 围绕 日常记录与回顾 展开的应用，探索 AI 如何帮助人重新阅读自己的想法，让记录成为理解自己的材料。 Next.js 14 · FastAPI · SQLite · DeepSeek RECORD / REFLECT / UNDERSTAND"></picture></a><a href="https://github.com/CaydenZheng/sasrec"><picture><source media="(max-width: 767px)" srcset="./assets/profile/sasrec-mobile.svg"><img src="./assets/profile/sasrec.svg" width="50%" align="top" alt="03   SEQUENTIAL RECOMMENDATION SASRec ↗ 从过去的交互，预测下一次兴趣。 复现基于 自注意力的序列推荐模型 ，在 MovieLens-1M 上学习序列建模与推荐评估。 PyTorch · MovieLens-1M 0.59 NDCG@10 0.82 HR@10"></picture></a></p>
 
-对一切未知的事物充满好奇。
+<p align="right"><a href="https://github.com/CaydenZheng?tab=repositories">全部仓库 ↗</a> &nbsp; <img src="./assets/body-closing-plane.svg" width="88" height="28" align="middle" alt=""></p>
+
+<p>中文 · <a href="./README.en.md">English</a></p>
+
+<details>
+<summary>文字版 · 关于我与项目介绍</summary>
+
+### 关于我
+
+**保持好奇，也把想法做出来。**
+
+我是 Cayden，目前在华南理工大学学习，关注**知识检索、AI 应用与推荐系统**。
+我喜欢把模型与数据放进具体的使用场景，在实践中理解技术，把想法做成可以使用的东西。
+
+目前正在学习**英语和西班牙语**，会继续学习更多语言，希望能有机会和不同文化背景的人交流。
 
 ### 一些作品
 
-<picture>
-  <source media="(max-width: 767px)" srcset="./assets/body-yellow-plane-small.svg">
-  <img align="right" src="./assets/body-yellow-plane.svg" alt="">
-</picture>
+#### [RAG ↗](https://github.com/CaydenZheng/RAG)
 
-#### [RAG](https://github.com/CaydenZheng/RAG)
+**让本地知识可检索，让 Agent 能动手。**
 
-让本地知识可检索，让 Agent 能动手。
+围绕本地知识库构建检索与问答流程，以**稠密检索 + BM25** 组合召回，通过 RRF 融合结果。结合**工具调用与 MCP**，探索从获取信息到执行操作的完整流程。
 
-<samp>FastAPI · PocketFlow · Dense+BM25 · RRF · MCP</samp>
+<samp>FastAPI · PocketFlow · Dense + BM25 · RRF · MCP</samp>
 
-#### [MindTrace · 日迹](https://github.com/CaydenZheng/mindtrace-web)
+#### [MindTrace · 日迹 ↗](https://github.com/CaydenZheng/mindtrace-web)
 
-你写下思考，AI 做你的镜子。
+**你写下思考，AI 做你的镜子。**
+
+围绕**日常记录与回顾**展开的应用，探索 AI 如何帮助人重新阅读自己的想法，让记录成为理解自己的材料。
 
 <samp>Next.js 14 · FastAPI · SQLite · DeepSeek</samp>
 
-<img src="./assets/body-red-rail.svg" width="220" height="16" alt="">
+#### [SASRec ↗](https://github.com/CaydenZheng/sasrec)
 
-#### [SASRec](https://github.com/CaydenZheng/sasrec)
+**从过去的交互，预测下一次兴趣。**
 
-复现 SASRec，用自注意力预测下一次交互。
+复现基于**自注意力的序列推荐模型**，在 MovieLens-1M 上学习序列建模与推荐评估。
 
-<samp>PyTorch · ml-1m · NDCG@10 0.59 / HR@10 0.82</samp>
+<samp>PyTorch · MovieLens-1M · NDCG@10 0.59 · HR@10 0.82</samp>
 
-<p align="right">
-  <a href="https://github.com/CaydenZheng?tab=repositories">全部仓库 →</a>
-  <img align="right" src="./assets/body-closing-plane.svg" width="88" height="28" alt="">
-</p>
-
-<p>中文 · <a href="./README.en.md">English</a></p>
+</details>
